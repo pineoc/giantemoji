@@ -1,5 +1,5 @@
 
-def ofRoot(){ return '../../../../' }
+def ofRoot(){ return '/Users/pineoc/Downloads/of/' }
 
 // Load common functions
 apply from: ofRoot()+"libs/openFrameworksCompiled/project/android/common-functions.gradle"
